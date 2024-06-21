@@ -1,6 +1,6 @@
 # user_app
 
-A new Flutter project.
+Приложение с пользователями
 
 ## Getting Started
 
